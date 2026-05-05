@@ -86,7 +86,7 @@ function Header({ page, setPage }) {
       <div style={{ maxWidth: 1100, margin: "0 auto", padding: "14px 40px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
         <div style={{ fontFamily: "'Fraunces', serif", fontSize: 22, fontWeight: 300, color: COLORS.navy, letterSpacing: "-0.01em" }}>
           Richard Trew
-          <span style={{ fontFamily: "'DM Mono', monospace", fontSize: 11, color: "#94a3b8", marginLeft: 10, fontWeight: 400 }}>MSc IT · Cranfield</span>
+          <span style={{ fontFamily: "'DM Mono', monospace", fontSize: 12, color: "#94a3b8", marginLeft: 10, fontWeight: 400 }}>MSc IT</span>
         </div>
         <nav style={{ display: "flex", gap: 4 }}>
           {NAV.map(n => (
@@ -115,7 +115,7 @@ function Home({ setPage }) {
             30+ years delivering investment data solutions across tier-1 banks, asset managers and reinsurers. Deep expertise in EDM platforms, OMS systems and securities data — now applying that foundation to cloud-native and AI-enabled architectures.
           </p>
           <p style={{ fontSize: 15, color: "#64748b", maxWidth: 580, lineHeight: 1.65, marginBottom: 36 }}>
-            The rare combination of financial domain depth (securities, derivatives, FX, regulatory reporting) and hands-on engineering means I hit the ground running in environments where junior cloud engineers simply don't know what they're building — or why.
+            The rare combination of financial domain depth (securities, derivatives, FX, regulatory reporting) and hands-on engineering means I hit the ground running and forsee issues early in environments where inexperienced cloud engineers may struggle.
           </p>
           <div style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
             <button onClick={() => setPage("skills")} style={{ padding: "12px 28px", background: COLORS.navy, color: "#fff", border: "none", borderRadius: 999, fontSize: 15, fontWeight: 500, cursor: "pointer" }}>
