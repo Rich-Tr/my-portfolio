@@ -449,7 +449,7 @@ function Bridge() {
 
       <div className="highlight-box" style={{ marginBottom: 32 }}>
         <h3>Why this matters for hiring managers</h3>
-        <p>Firms migrating from Markit EDM or Charles River IMS to cloud-native stacks face a specific problem: their new cloud engineers don't understand the data. They don't know why the security master has 47 override levels, or why the OTC position feed arrives in three different formats depending on which counterparty confirmed. I do — and I can translate that knowledge into clean modern architecture. This is the profile of someone who accelerates migrations rather than causing them to stall.</p>
+        <p>Firms migrating from Markit EDM, Charles River IMS or Powerbuilder to cloud-native stacks face a specific problem: their new cloud engineers may not understand the data. They don't know why the security master has 47 override levels, or why the OTC position feed arrives in three different formats depending on which counterparty confirmed. Complex implementations need translation and someone with wide ranging hands on experience and knowledge allows transformation into clean modern architecture. This is the profile of someone who accelerates migrations rather than causing them to stall.</p>
       </div>
 
       <div style={{ marginBottom: 12, display: "grid", gridTemplateColumns: "1fr 32px 1fr", gap: 0 }}>
