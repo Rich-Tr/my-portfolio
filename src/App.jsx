@@ -108,8 +108,8 @@ function Home({ setPage }) {
             Available for contract &amp; consultancy
           </div>
           <h1 style={{ fontFamily: "'Fraunces', serif", fontSize: "3.2rem", fontWeight: 300, lineHeight: 1.1, marginBottom: 24, color: COLORS.navy }}>
-            Senior fintech data<br/>
-            <em style={{ color: "#b8892a", fontStyle: "italic" }}>engineer &amp; consultant</em>
+            Senior Fintech Data<br/>
+            <em style={{ color: "#b8892a", fontStyle: "italic" }}>Engineer &amp; Consultant</em>
           </h1>
           <p style={{ fontSize: 18, color: COLORS.slate, maxWidth: 600, lineHeight: 1.6, marginBottom: 20 }}>
             30+ years delivering investment data solutions across tier-1 banks, asset managers and reinsurers. Deep expertise in EDM platforms, OMS systems and securities data — now applying that foundation to cloud-native and AI-enabled architectures.
