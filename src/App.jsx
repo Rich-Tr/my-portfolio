@@ -503,7 +503,7 @@ function Projects() {
               <div style={{ fontSize: 16, fontWeight: 500, color: COLORS.navy, marginBottom: 4 }}>Polymarket trading bot</div>
               <div style={{ fontSize: 12, color: "#94a3b8", fontFamily: "'DM Mono', monospace" }}>Live · Python · Real-time</div>
             </div>
-            <span style={{ background: "#E1F5EE", color: "#085041", border: "1px solid #9FE1CB", fontSize: 11, padding: "3px 10px", borderRadius: 999, fontFamily: "'DM Mono', monospace" }}>Live system</span>
+            <span style={{ background: "#E1F5EE", color: "#085041", border: "1px solid #9FE1CB", fontSize: 11, padding: "3px 10px", borderRadius: 999, fontFamily: "'DM Mono', monospace" }}>Back Testing system</span>
           </div>
           <p style={{ fontSize: 14, color: "#64748b", lineHeight: 1.6, marginBottom: 14 }}>
             Automated prediction market trading system with full market-making, opportunity scoring, position management and backtesting. The architecture mirrors the same patterns used in production financial trading systems — real-time feed ingestion, signal generation, risk-controlled execution.
