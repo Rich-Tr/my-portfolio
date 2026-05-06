@@ -5,7 +5,7 @@ const NAV = [
   { id: "experience", label: "Experience" },
   { id: "skills", label: "Skills" },
   { id: "bridge", label: "Legacy → Modern" },
-  { id: "projects", label: "Projects" },
+  { id: "projects", label: "Current Projects" },
 ];
 
 const COLORS = {
