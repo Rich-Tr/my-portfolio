@@ -218,7 +218,7 @@ function Experience() {
     },
     {
       title: "Development Consultant",
-      org: "HSBC GSS · Canary Wharf",
+      org: "HSBC HSS · Canary Wharf",
       date: "Jun 2018 – Sep 2019",
       project: "Markit EDM V10 — Funds Data Provision (M&G/Prudential onboarding)",
       summary: "FDP platform provides fund administration and reference data for 3,500+ global clients. Worked within the publishing POD in 3-week agile sprints.",
